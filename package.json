@@ -7,7 +7,7 @@
     },
     "devDependencies": {
         "husky": "^8.0.0",
-        "lint-staged": "^15.2.10"
+        "lint-staged": "^16.2.7"
     },
     "lint-staged": {
         "*.php": "php ./vendor/bin/pint"
